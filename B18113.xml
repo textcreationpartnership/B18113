@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief collection out of the records of the City, touching elections of the sheriffs of London and the county of Middlesex. By order of the Lord Mayor and Court of Aldermen.</title>
+            <author>City of London (England). Court of Aldermen.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18113</idno><idno type="EEBO-CITATION">99882716_186127</idno>
+  <idno type="VID">186127</idno>
+  <idno type="EEBO-PROQUEST">2264204944</idno>
+  
+            <idno type="OCLC"> 13578195</idno>
+            <idno type="STC">Wing B4556</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.9[62]</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.100*[161]</idno>
+            <idno type="STC">ESTC R12506</idno>
+            <idno type="PROQUEST">ocm99882716</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99882716e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18113)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186127)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:1[62]; C3:2[159])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief collection out of the records of the City, touching elections of the sheriffs of London and the county of Middlesex. By order of the Lord Mayor and Court of Aldermen.</title>
+                  <author>City of London (England). Court of Aldermen.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S. Roycroft, printer to this Honourable City.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sheriffs --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Sheriffs --  England --  Middlesex --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb n="1" facs="tcp:186127:1"/>
+            <head>
+               <figure>
+                  <figDesc>blazon or coat of arms of the City of London</figDesc>
+               </figure> A Brief Collection Out of the RECORDS OF THE CITY, Touching Elections of the SHERIFFS of <hi>London</hi> and the County of <hi>Middlesex.</hi>
+            </head>
+            <opener>
+               <signed>By Order of the Lord MAYOR and Court of ALDERMEN.</signed>
+            </opener>
+            <p>THE Charters are to the Citizens to choose their SHERIFFS; but by Usage and particular By-Laws those Elections have been restrained to the Liveries.
+<pb n="2" facs="tcp:186127:2"/>And so it hath been the Usage from the 21th year of <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the Third, for the Lord Mayor to nominate or choose a Person, either in Common Hall; or if Drank to before, to Present him to the Common Hall; and He there hath always been confirmed and allowed to be one of the Sheriffs, until the year 1641. Except in four or five years between the 21th of <hi>Edward</hi> the Third and 1641. wherein the She<g ref="char:EOLhyphen"/>riffs were on the Day of Election both nominated by the Commonalty, the Persons chosen by the Mayor having before refused the Office, and paid the Forfeiture. And from 1641. during all the time of the Rebellion, and so to the year 1663, the Person nominated by the Lord Mayor was refused to be confirmed by the Common Hall; but hath been confirmed ever since (except in the year 1674.) to the year 1680.</p>
+            <p>For this Reason (because the Lord Mayor hath Nomina<g ref="char:EOLhyphen"/>ted a Person to be one of the Sheriffs) do the Lord Mayor and Aldermen withdraw, leaving the Commons to Confirm him, and Elect the other (as they do likewise upon the Choice of Lord Mayor; because there the Lord Mayor and Aldermen choose him out of the Two present<g ref="char:EOLhyphen"/>ed by the Commons.) But at other Common Halls they do not withdraw, as at the Choice of Members to serve in Parliament, &amp;c.</p>
+            <p>This Priviledge of the Lord Mayor is in the Cities Re<g ref="char:EOLhyphen"/>cords, several times said to be according to Ancient Customs, Rules, and Ordinances of the City.</p>
+            <p>Indeed in an Act of Common Council, made the 4th of <hi>Henry</hi> the Fifth, it is expressed, That the Sheriffs ought to be freely and indifferently chosen by the more sufficient Citizens, surnmoned to those Elections.</p>
+            <p>But some other Acts of Common Council make particu<g ref="char:EOLhyphen"/>lar mention of, or imply the aforesaid Priviledge of the Lord Mayor: As an Act in <hi>Edward</hi> the Third's time, That Citizens absenting themselves on the Day of Electi<g ref="char:EOLhyphen"/>on, to avoid the Office of Sheriff, shall forfeit an Hun<g ref="char:EOLhyphen"/>dred Pounds. And the Mayor every year to say in his Conscience, and by his Oath; If he had chosen any other than he hath chosen, if he had been present, and to name the Person. And the Commonalty in the same man<g ref="char:EOLhyphen"/>ner.</p>
+            <p>An Act made the 7th of <hi>Richard</hi> the Second, That St. <hi>Matthews</hi> Day shall be the Day for Election of a Sheriff. And when the Commons shall have agreed upon a Person, they shall present him to the Mayor and Aldermen.</p>
+            <pb n="3" facs="tcp:186127:2"/>
+            <p>An Act made the 19th of <hi>Henry</hi> the Eight, If any Citizen happen to be named and elected, as well by the Mayor (according to his Ancient Prerogative) as by the Commonalty, on the Second of <hi>September,</hi> and take not the Office, he shall forfeit, &amp;c.</p>
+            <p>An Act made the 30th of <hi>Henry</hi> the Eighth, That the Election of Sheriffs for the Commonalty shall be had and used on the Day of St. <hi>Peter ad Vincula.</hi> Provided that the Mayor shall at any time before <hi>Lammas,</hi> Name and Elect one of the Sheriffs at his Pleasure.</p>
+            <p>An Act made the 13th of Queen <hi>Elizabeth,</hi> If any Citizen happen to be chosen Sheriff, either by the Mayor, or else by the Commons, at times and place appointed, &amp;c. and appear not to take upon him the Office, he shall for<g ref="char:EOLhyphen"/>feit, &amp;c.</p>
+            <p>An Act, 24th of the same Queen, whereby the First of <hi>August</hi> is appointed the Day for Confirmation, Allow<g ref="char:EOLhyphen"/>ance and Election of the Persons to be named Sheriffs by the Lord Mayor according to Ancient Usage, and for E<g ref="char:EOLhyphen"/>lection of another by the Lord Mayor and Commons. If the Person to be named by the Mayor shall before the First of <hi>August,</hi> refuse to take upon him the Office, or Decease, or that new Nomination shall need to be made, it shall be lawful for the Lord Mayor before the First of <hi>August,</hi> to make new Nomination or Nominations, as hath been accustomed.</p>
+            <p>An Act 36 of <hi>Eliz.</hi> and the same almost Repeated 7 <hi>Car.</hi> 1. Differing only in the Penalties, which are made greater by this of 7 <hi>Car.</hi> 1. This Repeals all former Acts touching Election and Confirmation of Sheriffs (the Penalties in them having been too mild) and Consti<g ref="char:EOLhyphen"/>tutes the Day as well for Confirmation and Allow<g ref="char:EOLhyphen"/>ance of such Persons as shall be Chosen and Elected by the Lord Mayor to be Sheriffs, as for the Choice of such other Persons, as by the Lord Mayor, Aldermen, and Commons shall be Chosen to be Sheriffs, to be the Four and twentieth of <hi>June.</hi> And thereby it is En<g ref="char:EOLhyphen"/>acted, That if any Person that shall be so Chosen or Elected, do not before the next Court of Aldermen, en<g ref="char:EOLhyphen"/>ter into Bond to take upon him the Office, he shall Forfeit Four hundred pounds. And that if any Forfeiture shall be made by any Person to be first Chosen or Ele<g ref="char:EOLhyphen"/>cted by the Lord Mayor, One hundred pounds of such Forfeitures shall be to him that shall first, in the same Year accept the Office. And if after such Acceptance
+<pb n="4" facs="tcp:186127:3"/>any other Forfeiture shall happen to be made by any Per<g ref="char:EOLhyphen"/>son that shall be Chosen by the Lord Mayor, Alder<g ref="char:EOLhyphen"/>men, and Commons, One hundred pounds thereof shall be to him that shall first after accept the Office, being Elected by the Lord Mayor, Aldermen, and Com<g ref="char:EOLhyphen"/>mons. And that no Alderman, by Posteriority of Electi<g ref="char:EOLhyphen"/>on, be inferiour to a Commoner, That the Lord Mayor do not Choose any Commoner while there is an Alder<g ref="char:EOLhyphen"/>man Eligible.</p>
+            <p>The usual Proclamation that begins the Common Hall on <hi>Midsummer Day,</hi> declares that They are summon<g ref="char:EOLhyphen"/>ed for Confirmation of the Person chosen by the Lord Mayor, and for Election of another, to be Sheriffs for the Year ensuing.</p>
+            <p>From the beginning of Queen <hi>Elizabeth</hi>'s Reign, the Persons Drank to by the Lord Mayor, have frequent<g ref="char:EOLhyphen"/>ly before Confirmation by the Common Hall, Sealed Bonds to hold the Office, or paid the Forfeiture upon Refusal to hold, or Swore themselves not of Ability to hold.</p>
+            <p>By all which it may appear, That what Sir <hi>John Moore,</hi> the present Lord Mayor, hath done in Choosing Mr. <hi>North,</hi> and Presenting him to the Common Hall to be Confirmed, is no Innovation, but is warranted by Usage and Acts of Common Councel, notwithstanding the false Insinuations lately set forth in Print to the Contrary.</p>
+         </div>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <opener>
+               <signed>Moore Mayor.</signed>
+               <date>Jovis xxix<seg rend="sup">o</seg>. Die Junij 1682. Annoque Regni Regis <hi>CAROLI</hi> Secundi, Angl' <hi>&amp;c.</hi> xxxiiij<seg rend="sup">o</seg>.</date>
+            </opener>
+            <p>
+               <hi>THIS Court taking Notice of divers Papers that have been lately Printed, touching the Ʋsage in Choosing the Sheriffs of this City, and the County of</hi> Middlesex, <hi>doth Order that this Collection, which hath been made out of the Cities RECORDS, by Direction of this Court, be forthwith Printed, to give Infor<g ref="char:EOLhyphen"/>mation to the Citizens of this City touching this Matter.</hi>
+            </p>
+            <closer>
+               <signed>Wagstaffe.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>Printed by <hi>S. Roycroft,</hi> Printer to this Honourable City. 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
